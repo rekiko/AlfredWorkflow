@@ -11,3 +11,6 @@
 
 [`SpeedTest`](https://github.com/kochemasov/AlfredWorkflow/raw/master/SpeedTest.alfredworkflow) — Workflow использует сервис Speedtest, для измерения скорости вашего соединения. Для использования, необходимо написать в строке Alfred "Speedtest" и спустя некоторое время получить оповещение с указанием скорости Вашего соединения
 ----------
+
+[`Wi-Fi`](https://github.com/kochemasov/AlfredWorkflow/raw/master/Wi-Fi.alfredworkflow) — Workflow включает/отключает WiFi на Mac, для использования нужно ввести wifi on/off
+----------
