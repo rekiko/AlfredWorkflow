@@ -25,7 +25,7 @@ Workflow включает/отключает WiFi на Mac
 Workflow парсит важную информацию о Вашем компьютере и выводит её в строке Alfred
 > Triggers: `about`
 
-### [Domainr](https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr) (v1.2.1) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/domainr/domainr.alfredworkflow)
+### [Domainr](https://github.com/kochemasov/AlfredWorkflow/raw/master/Domainr/Domainr.alfredworkflow)
 
 Find domains quickly using [domai.nr](https://domainr.com/)'s API ~ *by [@dingyi](https://github.com/dingyi/).*
 
