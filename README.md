@@ -13,6 +13,7 @@ Workflow позволяющий быстро укоротить ссылку и�
 #[`Translate`](https://github.com/kochemasov/AlfredWorkflow/raw/master/Translate.alfredworkflow)
 Workflow использует сервис Google Translate
 <img width="594" alt="domainr" src="https://github.com/kochemasov/AlfredWorkflow/blob/master/Translate/translate.png?raw=true">
+<img width="594" alt="domainr" src="https://github.com/kochemasov/AlfredWorkflow/blob/master/Translate/translate1.png?raw=true">
 > Triggers: `t`
 
 #[`SpeedTest`](https://github.com/kochemasov/AlfredWorkflow/raw/master/SpeedTest.alfredworkflow)
