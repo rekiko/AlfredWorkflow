@@ -1,7 +1,7 @@
 # *AlfredWorkflow*
 </br>
 
-#[`Сериалы`](https://github.com/kochemasov/AlfredWorkflow/raw/master/Сериалы.alfredworkflow) - Workflow для просмотра сериалов, подробнее можете почитать на [Хабре](https://habrahabr.ru/post/305346/)
+Workflow для просмотра сериалов на [Хабре](https://habrahabr.ru/post/305346/)
 
 
 #[`Google URL Shortener`](https://github.com/kochemasov/AlfredWorkflow/raw/master/Google%20URL%20Shortener.alfredworkflow)
